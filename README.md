@@ -1,2 +1,3 @@
 # Random-Quote-Machine
-Random Quote Machine project for Free Code Camp.
+A javascript project using the Forismatic API to display and tweet random quotes.
+Project description: https://www.freecodecamp.com/challenges/build-a-random-quote-machine
