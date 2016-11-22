@@ -1,0 +1,62 @@
+@import url("https://fonts.googleapis.com/css?family=Libre+Franklin:100");
+body {
+  background-color: #16a085;
+  color: #16a085;
+  font-family: 'Libre Franklin', sans-serif;
+}
+.container {
+  position: relative;
+  margin: 10% auto auto auto;
+  padding: 50px 40px 40px 40px;
+  text-align: center;
+  background-color: #FFFFFF;
+  border-radius: 5px;
+  width: 40%;
+}
+#quote {
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 30px;
+  font-weight: bold;
+}
+#author {
+  text-align: right;
+  font-size: 18px;
+}
+.links {
+  display: block;
+}
+#tweet {
+  float: left;
+}
+a {
+  color: #16a085;
+}
+a:hover {
+  opacity: 0.7;
+  text-decoration: none;
+  color: #FFF;
+}
+.button {
+  background-color: #16a085;
+  color: #FFFFFF;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 5px;
+  padding: 10px 15px 10px 15px;
+  cursor: pointer;
+  margin-left: -30px;
+}
+#tweet:hover {
+  color: #16a085;
+  opacity: 0.7;
+}
+.footer {
+  width: 40%;
+  margin: 15px auto 30px auto;
+  position: relative;
+  display: block;
+  text-align: center;
+  color: #FFFFFF;
+  font-size: 14px;
+}
